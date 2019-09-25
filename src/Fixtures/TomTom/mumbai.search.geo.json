@@ -1,0 +1,318 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.82118,
+                    18.96905
+                ]
+            },
+            "properties": {
+                "type": "Geography",
+                "id": "IN/GEO/p0/11343",
+                "score": 4.42936,
+                "entityType": "Municipality",
+                "address": {
+                    "municipality": "Mumbai",
+                    "countrySecondarySubdivision": "Mumbai",
+                    "countrySubdivision": "Maharashtra",
+                    "countryCode": "IN",
+                    "country": "India",
+                    "countryCodeISO3": "IND",
+                    "freeformAddress": "Mumbai, Maharashtra"
+                },
+                "dataSources": {
+                    "geometry": {
+                        "id": "00005831-3100-1200-0000-0000773776f5"
+                    }
+                }
+            },
+            "bbox": [
+                72.7875,
+                18.89308,
+                72.88133,
+                19.05297
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.86629,
+                    19.00981
+                ]
+            },
+            "properties": {
+                "type": "Geography",
+                "id": "IN/GEO/p0/8583",
+                "score": 4.11459,
+                "entityType": "MunicipalitySubdivision",
+                "address": {
+                    "municipalitySubdivision": "Castrol India, Sewari",
+                    "municipality": "Mumbai",
+                    "countrySecondarySubdivision": "Mumbai",
+                    "countrySubdivision": "Maharashtra",
+                    "countryCode": "IN",
+                    "country": "India",
+                    "countryCodeISO3": "IND",
+                    "freeformAddress": "Mumbai Castrol India, Maharashtra"
+                },
+                "dataSources": {
+                    "geometry": {
+                        "id": "00004e31-3600-3c00-0000-00002671fd3f"
+                    }
+                }
+            },
+            "bbox": [
+                72.86332,
+                19.00581,
+                72.87024,
+                19.01103
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.73139,
+                    37.94599
+                ]
+            },
+            "properties": {
+                "type": "POI",
+                "id": "ES/POI/p0/87769",
+                "score": 4.02816,
+                "address": {
+                    "streetName": "Calle de Escorpio-la Florida",
+                    "municipalitySubdivision": "Urbanización La Chismosa",
+                    "municipality": "Orihuela",
+                    "countrySecondarySubdivision": "Alicante",
+                    "countrySubdivision": "Comunidad Valenciana",
+                    "postalCode": "03189",
+                    "countryCode": "ES",
+                    "country": "Spain",
+                    "countryCodeISO3": "ESP",
+                    "freeformAddress": "Calle de Escorpio-la Florida, 03189 Orihuela",
+                    "localName": "Orihuela"
+                }
+            },
+            "bbox": [
+                -0.73253,
+                37.94509,
+                -0.73025,
+                37.94689
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.22575,
+                    36.36568
+                ]
+            },
+            "properties": {
+                "type": "POI",
+                "id": "ES/POI/p0/242395",
+                "score": 4.02816,
+                "address": {
+                    "streetName": "Calle de Málaga",
+                    "municipalitySubdivision": "San Luís de Sabinillas",
+                    "municipality": "Manilva",
+                    "countrySecondarySubdivision": "Málaga",
+                    "countrySubdivision": "Andalucía",
+                    "postalCode": "29692",
+                    "countryCode": "ES",
+                    "country": "Spain",
+                    "countryCodeISO3": "ESP",
+                    "freeformAddress": "Calle de Málaga, 29692 Manilva",
+                    "localName": "Manilva"
+                }
+            },
+            "bbox": [
+                -5.22687,
+                36.36478,
+                -5.22463,
+                36.36658
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.15865,
+                    36.41565
+                ]
+            },
+            "properties": {
+                "type": "POI",
+                "id": "ES/POI/p0/243954",
+                "score": 4.02816,
+                "address": {
+                    "streetName": "Calle Doctor Martorell",
+                    "municipalitySubdivision": "Estepona",
+                    "municipality": "Estepona",
+                    "countrySecondarySubdivision": "Málaga",
+                    "countrySubdivision": "Andalucía",
+                    "postalCode": "29680",
+                    "extendedPostalCode": "29693",
+                    "countryCode": "ES",
+                    "country": "Spain",
+                    "countryCodeISO3": "ESP",
+                    "freeformAddress": "Calle Doctor Martorell, 29693 Estepona",
+                    "localName": "Estepona"
+                }
+            },
+            "bbox": [
+                -5.15977,
+                36.41475,
+                -5.15753,
+                36.41655
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.83467,
+                    18.92189
+                ]
+            },
+            "properties": {
+                "type": "POI",
+                "id": "IN/POI/p0/12404162",
+                "score": 4.01445,
+                "address": {
+                    "municipalitySubdivision": "Naval Dock, Ballad Estate",
+                    "municipality": "Mumbai",
+                    "countrySecondarySubdivision": "Mumbai",
+                    "countrySubdivision": "Maharashtra",
+                    "countryCode": "IN",
+                    "country": "India",
+                    "countryCodeISO3": "IND",
+                    "freeformAddress": "Colaba, Maharashtra",
+                    "localName": "Colaba"
+                }
+            },
+            "bbox": [
+                72.83372,
+                18.92099,
+                72.83562,
+                18.92279
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.019,
+                    19.0334
+                ]
+            },
+            "properties": {
+                "type": "Geography",
+                "id": "IN/GEO/p0/4544",
+                "score": 3.89691,
+                "entityType": "MunicipalitySubdivision",
+                "address": {
+                    "municipalitySubdivision": "Navi Mumbai",
+                    "municipality": "Thane",
+                    "countrySecondarySubdivision": "Thane",
+                    "countrySubdivision": "Maharashtra",
+                    "countryCode": "IN",
+                    "country": "India",
+                    "countryCodeISO3": "IND",
+                    "freeformAddress": "Thane Navi Mumbai, Maharashtra"
+                },
+                "dataSources": {
+                    "geometry": {
+                        "id": "00004e31-3600-3c00-0000-00006802b7c6"
+                    }
+                }
+            },
+            "bbox": [
+                73.00107,
+                19.00202,
+                73.0289,
+                19.06603
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.8265,
+                    18.93298
+                ]
+            },
+            "properties": {
+                "type": "POI",
+                "id": "IN/POI/p0/1450259",
+                "score": 3.8962,
+                "address": {
+                    "streetName": "Churchgate, Churchgate Railway Station, Veer Nariman Road",
+                    "municipalitySubdivision": "Church Gate, Brabourn Stadium",
+                    "municipality": "Mumbai",
+                    "countrySecondarySubdivision": "Mumbai",
+                    "countrySubdivision": "Maharashtra",
+                    "postalCode": "400020",
+                    "countryCode": "IN",
+                    "country": "India",
+                    "countryCodeISO3": "IND",
+                    "freeformAddress": "Churchgate, Churchgate Railway Station, Veer Nariman Road, Mumbai, Maharashtra, 400020",
+                    "localName": "Mumbai"
+                }
+            },
+            "bbox": [
+                72.82555,
+                18.93208,
+                72.82745,
+                18.93388
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.8143,
+                    18.95622
+                ]
+            },
+            "properties": {
+                "type": "POI",
+                "id": "IN/POI/p0/1452010",
+                "score": 3.8962,
+                "address": {
+                    "streetName": "Sardar Vallabhai Patel Road",
+                    "municipalitySubdivision": "Chowpatty",
+                    "municipality": "Mumbai",
+                    "countrySecondarySubdivision": "Mumbai",
+                    "countrySubdivision": "Maharashtra",
+                    "postalCode": "400006",
+                    "countryCode": "IN",
+                    "country": "India",
+                    "countryCodeISO3": "IND",
+                    "freeformAddress": "Sardar Vallabhai Patel Road, Mumbai, Maharashtra, 400006",
+                    "localName": "Mumbai"
+                }
+            },
+            "bbox": [
+                72.81335,
+                18.95532,
+                72.81525,
+                18.95712
+            ]
+        }
+    ]
+}
