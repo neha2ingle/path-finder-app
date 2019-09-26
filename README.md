@@ -1,14 +1,14 @@
 # Path Finder
 
-"Path Finder" helps you view, manage and organize your destinations; from across the world in simple and intutive manner. You can add anything as location be it your favorite restaurant, area to visit or entire city.
-See your all destinations together in world map or check individual destination un-explored details with ease. 
+"Path Finder" helps you view, manage and organize your destinations, from across the world in simple and intutive manner. You can add anything as location be it your favorite restaurant, area to visit or entire city.
+See all your destinations together in world map or check individual destination un-explored details with ease. 
 
 ## Providers
 
-Project is configured to be compatible with showing data from different providers. So in same database destinations searchred from different providerss can be added.
+Project is configured to be compatible with showing data from different providers. So in same database destinations searched from different providers can be added.
 Project showcases OSM (Open Street Map) API and TomTom API providers. 
 
-### Client configuation
+### Client configuration
 
 - Add your client provider in conditions at `providers\Client.provider.js` 
 
@@ -54,7 +54,7 @@ Leaflet.js is used as library of choice to show maps. Apart from being open sour
 
 ### GeoJSON
 
-GeoJSON is used as preffered format of communcation and storage for map/locations data. It provides variety of formats to store and retrive data.
+GeoJSON is used as preffered format of communication and storage for map/locations data. It provides variety of formats to store and retrive data.
 
 For example Munich city, pointer as well as boundry can be stored in same storage schema. User has choice to select format.
 
@@ -69,14 +69,16 @@ Used for requesting server data.
 ## Development
 
 - >= IE 11 support for dev
-   Project is setup to run on IE 11 and above. Also configured same for dev mode
+   Project is setup to run on IE 11 and above. Also configured same for dev mode.
 
 - HTTPS support: Project supports HTTPS protocol.
 
 - flow support
 
-- Debugging, with VS Code extenstions
+- Debugging, with VS Code extensions
 
 ## Testing
 
 React testing library, Jest, mock-axios is used to facilitate testing. Internal leaflet map mock is created to test map behaviour.
+
+
